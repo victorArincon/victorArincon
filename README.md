@@ -8,10 +8,10 @@
   <a href="mailto:victoraugustorincon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/cipherhubrd?igsh=MmUzbmE3bDR3MDFk&utm_source=qr">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
   •
-<a href="https://www.instagram.com/cipherhubrd?igsh=MmUzbmE3bDR3MDFk&utm_source=qr">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
 I'm Víctor Rincón, actually studying TIC's at UNIBE university in Dominican Republic, 19 years old. Experience in problem resolving, Studied photoshop and worked for my dad few years when I had 13 years old to 17 because I wanted to know photoshop, then start studying cibersecurity tech course, being specific learning and getting into the  superficial and then getting into cisco packet tracer ( Hardware configuration, internet config, LAN, WAN , IP Config, DNS...), I have experience working as Service Desk in a friend company configuring computers for designers and configuring IP cams.
 
