@@ -4,16 +4,12 @@
   <a href="https://www.linkedin.com/in/víctor-augusto-rincón-cedeño-b4a13a175">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   •
-
   <a href="mailto:victoraugustorincon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
   •
-  
 <a href="https://www.instagram.com/cipherhubrd?igsh=MmUzbmE3bDR3MDFk&utm_source=qr">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
@@ -30,7 +26,6 @@ I'm Víctor Rincón, actually studying TIC's at UNIBE university in Dominican Re
 <p aling="center">
 
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-
  •
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
  •
