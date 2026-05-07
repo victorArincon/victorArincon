@@ -1,8 +1,9 @@
 #### Hello Everyone! I'm _**Víctor R.**_
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/víctor-augusto-rincón-cedeño-b4a13a175">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://skillicons.dev/icons?i=all)"/>
+  [<a href="https://www.linkedin.com/in/víctor-augusto-rincón-cedeño-b4a13a175">
+    <a href="[https://skillicons.dev](https://www.linkedin.com/in/víctor-augusto-rincón-cedeño-b4a13a175)">
+    <img src="https://skillicons.dev/icons?i=Gmail" />
   </a>
   •
 
