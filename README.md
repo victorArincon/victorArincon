@@ -1,4 +1,4 @@
-#### Hello Everyone! I'm _**Víctor R.**_
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/5138d5a6-c657-4f9e-a9d5-8bb27166141f" />#### Hello Everyone! I'm _**Víctor R.**_
 
 <p align="center">
   <a href="https://www.linkedin.com/in/víctor-augusto-rincón-cedeño-b4a13a175">
@@ -31,8 +31,19 @@ I'm Víctor Rincón, actually studying TIC's at UNIBE university in Dominican Re
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
  •
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
+ •
 <img src="https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&logo=ApacheOpenOffice&logoColor=white" />
+
+
+</p>
+
+### Badges!
+
+<p aling="center">
+
+<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/getting_started_with_cisco_packet_tracer_24.png" />
+
+
 
 
 
