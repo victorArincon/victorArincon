@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Víctor R.
+#### Hi there 👋 I'm Víctor R.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/víctor-augusto-rincón-cedeño-b4a13a175">
@@ -16,4 +16,6 @@
 - 📫 How to reach me: Email :)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Listen to kind of music and read
+
+###
 
