@@ -1,4 +1,4 @@
-#### Hi there 👋 I'm Víctor R.
+#### Hi there 👋 I'm _**Víctor R.**_
 
 <p align="center">
   <a href="https://www.linkedin.com/in/víctor-augusto-rincón-cedeño-b4a13a175">
