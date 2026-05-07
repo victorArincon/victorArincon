@@ -1,9 +1,19 @@
 ## Hi there 👋 I'm Víctor R.
 
 <p align="center">
-  <a href="www.linkedin.com/in/víctor-augusto-rincón-cedeño-b4a13a175">LinkedIN</a> •
-  <a href="[https://twitter.com/Shwetang550](https://medium.com/@victoraugustorincon)">Medium</a>
-  <a href="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](victoraugustorincon@gmail.com)>Gmail</a>
+  <a href="https://www.linkedin.com/in/víctor-augusto-rincón-cedeño-b4a13a175">
+    LinkedIn
+  </a>
+  •
+
+  <a href="https://medium.com/@victoraugustorincon">
+    Medium
+  </a>
+  •
+
+  <a href="mailto:victoraugustorincon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 - 🌱 I’m currently learning Python and IT Customer Support Basics
