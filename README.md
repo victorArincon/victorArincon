@@ -1,14 +1,13 @@
 #### Hello Everyone! I'm _**Víctor R.**_
 
 <p align="center">
-  [<a href="https://www.linkedin.com/in/víctor-augusto-rincón-cedeño-b4a13a175">
-    <a href="[https://skillicons.dev](https://www.linkedin.com/in/víctor-augusto-rincón-cedeño-b4a13a175)">
-    <img src="https://skillicons.dev/icons?i=Gmail" />
+  <a href="https://www.linkedin.com/in/víctor-augusto-rincón-cedeño-b4a13a175">
+     <img src="https://skillicons.dev/icons?i=Gmail" />
   </a>
   •
 
   <a href="mailto:victoraugustorincon@gmail.com">
-    <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://skillicons.dev/icons?i=all)" />
+    <img src="[[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://skillicons.dev/icons?i=all)](https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg)" />
   </a>
 </p>
 
