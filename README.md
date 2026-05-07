@@ -32,6 +32,8 @@ I'm Víctor Rincón, actually studying TIC's at UNIBE university in Dominican Re
  •
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&logo=ApacheOpenOffice&logoColor=white" />
+
 
 
 
