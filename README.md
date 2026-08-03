@@ -14,7 +14,7 @@
 </p>
 
 
-I'm Víctor Rincón, actually studying TIC's at UNIBE university in Dominican Republic, 19 years old. Experience in problem resolving, Studied photoshop and worked for my dad few years when I had 13 years old to 17 because I wanted to know photoshop, then start studying cibersecurity tech course, being specific learning and getting into the  superficial and then getting into cisco packet tracer ( Hardware configuration, internet config, LAN, WAN , IP Config, DNS...), I have experience working as Service Desk in a friend company configuring computers for designers and configuring IP cams.
+I'm Víctor Rincón, actually studying TIC's at UNIBE university in Dominican Republic, 19 years old. Experience in problem resolving, start studying cibersecurity tech course, being specific learning and getting into the  superficial and then getting into cisco packet tracer ( Hardware configuration, internet config, LAN, WAN , IP Config, DNS...), I have experience working as Service Desk in a friend company configuring computers for designers and configuring IP cams.
 
 - 🌱 I’m currently learning Python and IT Customer Support Basics
 - 💬 Ask me about History
