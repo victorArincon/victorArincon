@@ -1,4 +1,4 @@
-#### Hello Everyone! I'm _**Víctor R.**_
+<img width="116" height="28" alt="image" src="https://github.com/user-attachments/assets/b6583dd2-5d31-4c7e-ae42-e39af8d499df" />#### Hello Everyone! I'm _**Víctor R.**_
 
 
 <p align="center">
@@ -39,7 +39,7 @@ I'm Víctor Rincón, actually studying TIC's at UNIBE university in Dominican Re
  •
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
  •
- [OpenCode](https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff)
+ <img src="https://img.shields.io/badge/!%5BOpenCode%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2Fopencode-%2523000000.svg%3Fstyle%3Dfor-the-badge%26logo%3Dopencode%26logoColor%3Dffffff)" />
 
  
 </p>
