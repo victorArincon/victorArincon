@@ -1,5 +1,6 @@
 #### Hello Everyone! I'm _**Víctor R.**_
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/víctor-augusto-rincón-cedeño-b4a13a175">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -8,16 +9,12 @@
   <a href="mailto:victoraugustorincon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    •
-  <a href="https://www.instagram.com/cipherhubrd?igsh=MmUzbmE3bDR3MDFk&utm_source=qr">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
 
 I'm Víctor Rincón, actually studying TIC's at UNIBE university in Dominican Republic, 19 years old. Experience in problem resolving, start studying cibersecurity tech course, being specific learning and getting into the  superficial and then getting into cisco packet tracer ( Hardware configuration, internet config, LAN, WAN , IP Config, DNS...), I have experience working as Service Desk in a friend company configuring computers for designers and configuring IP cams.
 
-- 🌱 I’m currently learning Python and IT Customer Support Basics
-- 💬 Ask me about History
+- 🌱 Currently learning Cloud and doing some CI/CD
 - 📫 How to reach me: Email :)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Listen to kind of music and read
