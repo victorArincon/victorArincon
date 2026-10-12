@@ -6,9 +6,6 @@
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   •
-  <a href="mailto:victoraugustorincon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  •
  <img src="https://img.shields.io/badge/KDE%20Plasma-%231D99F3.svg?style=for-the-badge&logo=kdeplasma&logoColor=white" />
   </a>
 </p>
