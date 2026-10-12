@@ -39,7 +39,7 @@ I'm Víctor Rincón, actually studying TIC's at UNIBE university in Dominican Re
  •
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
  •
- <img src="https://img.shields.io/badge/!%5BOpenCode%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2Fopencode-%2523000000.svg%3Fstyle%3Dfor-the-badge%26logo%3Dopencode%26logoColor%3Dffffff)" />
+ <img src="https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black" />
 
  
 </p>
