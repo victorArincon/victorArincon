@@ -1,4 +1,4 @@
-<img width="116" height="28" alt="image" src="https://github.com/user-attachments/assets/b6583dd2-5d31-4c7e-ae42-e39af8d499df" />#### Hello Everyone! I'm _**Víctor R.**_
+>#### Hello Everyone! I'm _**Víctor R.**_
 
 
 <p align="center">
